@@ -65,7 +65,7 @@
 
 먼저 노트북 파일이 있는 디렉토리로 이동합니다.
 
-    $ cd ~/code/python-machine-learning-book
+    $ cd ~/code/ch02
 
 그다음 `jupyter notebook` 명령을 실행합니다.
 
